@@ -1,0 +1,19 @@
+{
+  "name": "vuex-storage",
+  "version": "0.0.1",
+  "description": "Persist Vuex state with localStorage",
+  "main": "dist/vuex-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeiQuant/vuex-storage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeiQuant/vuex-storage/issues"
+  },
+  "homepage": "https://github.com/MeiQuant/vuex-storage#readme"
+}
